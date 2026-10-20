@@ -5,9 +5,9 @@
 A Power BI business intelligence project analyzing **$6.74 billion in historical sales across 45 Walmart stores** to identify top-performing departments, underperforming stores, seasonal sales patterns, and opportunities for retail performance improvement.
 
 ![Walmart Sales Dashboard](https://github.com/nithyaak7/walmart-sales-dashboard/blob/main/analysis-1.png)
-(https://github.com/nithyaak7/walmart-sales-dashboard/blob/main/analysis-2.png)
-(https://github.com/nithyaak7/walmart-sales-dashboard/blob/main/analysis-3.png)
-(https://github.com/nithyaak7/walmart-sales-dashboard/blob/main/analysis-4.png)
+![Walmart Sales Dashboard](https://github.com/nithyaak7/walmart-sales-dashboard/blob/main/analysis-2.png)
+![Walmart Sales Dashboard](https://github.com/nithyaak7/walmart-sales-dashboard/blob/main/analysis-3.png)
+![Walmart Sales Dashboard](https://github.com/nithyaak7/walmart-sales-dashboard/blob/main/analysis-4.png)
 
 ## Project Overview
 
